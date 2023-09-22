@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammadmahdi Lotfinia</h1>
 <h3 align="center">Android developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-kokabi&label=Profile%20views&color=0e75b6&style=flat" alt="sir-kokabi" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-kokabi" alt="sir-kokabi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sir_kokabi" target="blank"><img src="https://img.shields.io/twitter/follow/sir_kokabi?logo=twitter&style=for-the-badge" alt="sir_kokabi" /></a> </p>
-
-- 🌱 I'm Currently learning **Javascript, Tailwind, Sveltekit**
-
-- 📫 **sir.kokabi@gmail.com**
+- 📫 **mezi.lotfinia@gmail.com**
 
 - ⚡ **I think I am a perfectionism and disciplined person**
 
