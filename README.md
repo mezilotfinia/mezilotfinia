@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammadmahdi Lotfinia</h1>
 <h3 align="center">Android developer from Iran</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mezilotfinia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mezilotfinia&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 **mezi.lotfinia@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sir_kokabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir_kokabi" height="30" width="40" /></a>
+<a href="https://twitter.com/sir_kokabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mezilotfinia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20947581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20947581" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
