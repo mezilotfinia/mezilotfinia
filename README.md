@@ -22,6 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mezilotfinia&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-kokabi&show_icons=true&locale=en" alt="sir-kokabi" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezilotfinia)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sir-kokabi&" alt="sir-kokabi" /></p>
