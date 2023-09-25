@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammadmahdi Lotfinia</h1>
 <h3 align="center">Android developer from Iran</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mezilotfinia&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mezilotfinia)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 **mezi.lotfinia@gmail.com**
 
