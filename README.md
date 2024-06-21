@@ -7,7 +7,7 @@
 
 - ⚡ **I think I am a perfectionism and disciplined person**
 
-- ✅ **Java-Kotlin-Flutter-Dart-MVVM-Api-Git-JetpackCompose-JetpackAndroid-RoomDB-ProviderFlutter-SEO-Wordpress**
+- ✅ **Java-Kotlin-Flutter-Dart-MVVM-Api-Git-JetpackCompose-JetpackAndroid-RoomDB-ProviderFlutter-Cleanarch-Bloc-UnitTest-Map-DependencyInjection-SEO-Wordpress**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
